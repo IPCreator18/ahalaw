@@ -5,7 +5,7 @@
 
 [什么领域，你可以做到出类拔萃？](https://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)
 
-https://www.wangbase.com/blogimg/asset/201901/bg2019020101.jpg![image](https://user-images.githubusercontent.com/100062815/155824620-78da7ca9-c778-41f9-9945-0302aba3255f.png)
+![image](https://user-images.githubusercontent.com/100062815/155824620-78da7ca9-c778-41f9-9945-0302aba3255f.png)
 
 呆伯特漫画的作者亚当斯（ Scott Adams），有一次谈到自己的成功秘诀。
 
