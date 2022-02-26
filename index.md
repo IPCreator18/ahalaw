@@ -25,6 +25,30 @@ https://www.wangbase.com/blogimg/asset/201901/bg2019020101.jpg![image](https://u
 
 ## 法律
 
+### 历史知识
+
+### [中国最早的商标](http://www.tmcip.com/index.php?c=article&id=248l)
+
+![image](https://user-images.githubusercontent.com/100062815/155825561-d7088f7c-7128-4122-ad4f-eee887fd478d.png)
+
+我国最早的商标，可追溯到北宋时期，是我国已发现的古代最完善的商标。当时位于山东省济南市内，有家姓刘的针铺店，以白兔捣药图为商标（标记），在当地颇负盛名。这个商标是用铜版印刷制造而成的，整体外形近似方形，中间绘有白兔捣药图，画像鲜明突出，文字辨识度清晰。图画的上端，横写着店名“济南刘家功夫针铺”，两侧写有“认准门前白兔儿为记”的条幅，图下方从左到右写关于经商范围、方法和质量要求的告白。
+
+![image](https://user-images.githubusercontent.com/100062815/155825568-b408e05d-a0c2-4f12-8f31-b0e4caa3a26c.png)
+
+小小一块铜版，不仅清楚地说明了店铺的名称，同时还注明店铺的经营范围、方法、质量等，形象生动，简洁明了，真可谓设计精巧。广告词：铜版下方的广告文字说：“收买上等钢条，造功夫细针。不误宅院使用，转卖兴贩，别有加饶，谓记白。”这件珍贵历史文物现存于国家博物馆。这个史上最早的商标广告使用的是雕版印刷技术。雕版印刷术开创了信息复制技术的先河，承载着难以计量的历史文化信息，在世界文化传播史上起着无与伦比的重要作用。它的发明、发展和传播应用，极大地推动了人类社会文明的进展。因此，人们将印刷术誉为“文明之母”，这是中国印刷技术史上的第一座里程碑。
+
+![image](https://user-images.githubusercontent.com/100062815/155825580-35a4b275-4662-487e-bdc9-297691140b7f.png)
+
+笔者认为，这件文物不仅是最早的商标，也可以说，是目前中国公认的，相对保存完好的宋代时期的商业广告了。国外最早的商标，比我国宋朝的刘记针铺商标要晚好几百年，是1473年出现在英国伦敦街头的张贴印刷商标。
+
+[国内最早的立体商标](https://www.biaoyuantm.com/show-17287.html)
+
+2003年4月，国家工商总局商标局核准注册了北京德高尼文化艺术发展有限公司申请注册DEGONEY及图立体商标。这意味着中国第一个立体商标已正式申请注册成功。
+
+![image](https://user-images.githubusercontent.com/100062815/155825622-e63f3784-b6b1-43b3-8607-b0826b04aa91.png)
+
+世界上最早对立体商标进行保护的国家是法国， 早在1858年，法国吉百利公司生产了一种带有槽形的巧克力，经过一段时间销售，吉百利公司生产的这种巧克力就被广大消费者所喜爱并迅速在巧克力市场刮起了一阵“抄袭风”。就是这样的巧克力，看形状和包装确实十分令人喜爱。
+
 ### [知识产权法](https://book.douban.com/subject/35684592/)
 
 #### 目录
@@ -1858,26 +1882,27 @@ FENDI公司以商标侵权和不正当竞争为由，将益朗这两个被告起
 1. [张明楷刑法学讲义](https://book.douban.com/subject/35623213/)
 2. [知识产权基本问题研究](https://book.douban.com/subject/3651342/)
 3. [知识产权法教程（第七版）](https://book.douban.com/subject/35565071/)
-4. [老行者之家](http://www.law-walker.net/) 
-5. [中国私法网](http://www.privatelaw.com.cn/) 
-6. [财产法的体系演进](https://jjfxy.nwupl.edu.cn/wcm.files/upload/CMSjjfxy/202108/20210819170752526.pdf)
-7. [文本与诠释的互动:回顾《著作权法》三十年的新视角](https://zscq.ujs.edu.cn/__local/5/5D/AE/893C39898648466ED951726DE22_CB0AF070_15B700.pdf) 
-8. [欧盟商标法改革述评](http://www.nipso.cn/onews.asp?id=37462)
-9. [中国知识产权研究网](http://www.iprcn.com/index.aspx)
-10. [重新审视商标法的哲学基础](http://ielaw.uibe.edu.cn/fxlw/bjsfx1/bjzscqf/13978.htm) 
-11. [财产话语与商标法的演进——普通法系商标财产化的历史考察](https://book.douban.com/subject/30586541/)
-12. [历史演进与当代启示：商标与商誉关系新探——以英美普通法实践为考察中心](https://www.pkulaw.com/qikan/f84c22976f108d4b18dbd393a70c99e7bdfb.html)
-13. [普通法的历史基础](https://book.douban.com/subject/1079422/)
-14. [商标法的历史基础](https://book.douban.com/subject/30326085/)
-15. [现代知识产权法的演进 英国的历程（1760-1911)](https://book.douban.com/subject/10568223/)
-16. [李琛：论我国著作权法修订中“合理使用”的立法技术](http://ielaw.uibe.edu.cn/lfjy/8254.htm) 
-17. [德国知识产权制度是怎样建立和发展的？](https://www.worldip.cn/index.php?m=content&c=index&a=show&catid=54&id=53)
-18. [翻开尘封的历史——《大清著作权律》的那些故事](http://www.chinaipmagazine.com/journal-show.asp?id=835)
-19. [我国古代版权制度的历史演进知产往事](https://www.chinaiprlaw.cn/index.php?id=5745)
-20. [专利制度的历史变迁](https://book.douban.com/subject/35561069/) 
-21. [美国专利制度演进的历史梳理与经验借鉴](http://www.cqvip.com/qk/60136x/201810/676662546.html)
-22. [周璐、罗立国：技术范式视角下的专利制度演进路径分析](http://www.iprixmu.com/page264.html?article_id=1675)
-23. [商业模式专利保护的历史演进与制度思考——以中美比较研究为基础](https://www.hfiplaw.cn/details/19765.html)
-24. [中国专利法演进的动因及其知识供给](https://ibr.suibe.edu.cn/ch/reader/view_abstract.aspx?file_no=20080410&flag=1) 
+4. [法信](http://www.faxin.cn/index.aspx) 
+5. [老行者之家](http://www.law-walker.net/) 
+6. [中国私法网](http://www.privatelaw.com.cn/) 
+7. [财产法的体系演进](https://jjfxy.nwupl.edu.cn/wcm.files/upload/CMSjjfxy/202108/20210819170752526.pdf)
+8. [文本与诠释的互动:回顾《著作权法》三十年的新视角](https://zscq.ujs.edu.cn/__local/5/5D/AE/893C39898648466ED951726DE22_CB0AF070_15B700.pdf) 
+9. [欧盟商标法改革述评](http://www.nipso.cn/onews.asp?id=37462)
+10. [中国知识产权研究网](http://www.iprcn.com/index.aspx)
+11. [重新审视商标法的哲学基础](http://ielaw.uibe.edu.cn/fxlw/bjsfx1/bjzscqf/13978.htm) 
+12. [财产话语与商标法的演进——普通法系商标财产化的历史考察](https://book.douban.com/subject/30586541/)
+13. [历史演进与当代启示：商标与商誉关系新探——以英美普通法实践为考察中心](https://www.pkulaw.com/qikan/f84c22976f108d4b18dbd393a70c99e7bdfb.html)
+14. [普通法的历史基础](https://book.douban.com/subject/1079422/)
+15. [商标法的历史基础](https://book.douban.com/subject/30326085/)
+16. [现代知识产权法的演进 英国的历程（1760-1911)](https://book.douban.com/subject/10568223/)
+17. [李琛：论我国著作权法修订中“合理使用”的立法技术](http://ielaw.uibe.edu.cn/lfjy/8254.htm) 
+18. [德国知识产权制度是怎样建立和发展的？](https://www.worldip.cn/index.php?m=content&c=index&a=show&catid=54&id=53)
+19. [翻开尘封的历史——《大清著作权律》的那些故事](http://www.chinaipmagazine.com/journal-show.asp?id=835)
+20. [我国古代版权制度的历史演进知产往事](https://www.chinaiprlaw.cn/index.php?id=5745)
+21. [专利制度的历史变迁](https://book.douban.com/subject/35561069/) 
+22. [美国专利制度演进的历史梳理与经验借鉴](http://www.cqvip.com/qk/60136x/201810/676662546.html)
+23. [周璐、罗立国：技术范式视角下的专利制度演进路径分析](http://www.iprixmu.com/page264.html?article_id=1675)
+24. [商业模式专利保护的历史演进与制度思考——以中美比较研究为基础](https://www.hfiplaw.cn/details/19765.html)
+25. [中国专利法演进的动因及其知识供给](https://ibr.suibe.edu.cn/ch/reader/view_abstract.aspx?file_no=20080410&flag=1) 
 
 ![Alt](https://repobeats.axiom.co/api/embed/48145f3a99993e664893ab8abec5e06f14ea7bd7.svg "Repobeats analytics image")
