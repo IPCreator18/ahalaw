@@ -3,6 +3,26 @@
 ![image](https://user-images.githubusercontent.com/100062815/154831578-4375826f-5337-4165-badf-90b743676fd9.png)
 > 啊哈，原来还可以这么做，干就对了...
 
+[什么领域，你可以做到出类拔萃？](https://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)
+
+https://www.wangbase.com/blogimg/asset/201901/bg2019020101.jpg![image](https://user-images.githubusercontent.com/100062815/155824620-78da7ca9-c778-41f9-9945-0302aba3255f.png)
+
+呆伯特漫画的作者亚当斯（ Scott Adams），有一次谈到自己的成功秘诀。
+
+他的经历其实很普通。小时候喜欢画画，画得还可以，但远远不算优秀。长大以后，在一家公司当经理，管理企业，也是业绩平平。无论是选择当画家，或者继续当公司经理，也许都能够干下去，但应该都不会很成功。于是，他灵机一动，把自己的这两个特点结合起来，选择了另一条路：`专门画讽刺企业管理的漫画，结果走红了，成了世界闻名的漫画家。`
+
+他说，任何领域最优秀的前5%的人，都能拿到很好的报酬，比如，最优秀的那5%的程序员、面包师、钢琴家、美发师都是高收入的。但是，想要挤进这5%，是很不容易的，需要拼掉其他95%的人。但是，如果标准放宽一点，挤进前25%，普通人经过努力，还是很有希望达到的。
+
+> 成功的秘诀就是，你必须有两个能达到前25%水平的领域，这两个领域的交集就是你的职业方向。
+
+简单计算就可以知道，两个领域都是前25%，那么交集就是 25% 乘以 25%，等于 6.25%，即很有可能挤进前5%。更进一步，如果在两个领域里面，你都属于前10%的优秀人才，那么在交集里面，就可以达到顶尖的1%。
+
+总之，选择交集作为职业方向，你的竞争力会提升一个量级，收入也会随之大涨。
+
+![image](https://user-images.githubusercontent.com/100062815/155824658-1a6e9797-1c64-43f3-960b-5ab2851f92c8.png)
+
+举例来说，袁腾飞是一个中学历史老师，但是表达能力非常好，特别能说，简直能当脱口秀演员。如果他一直当中学历史老师，或者选择说脱口秀（就像黄西那样），可能都不会很成功，竞争者太多了。但是他把两者结合起来，`专门在网上视频说历史，讲得就很有意思，非常受欢迎，另一方面这个领域的竞争者也很少。`
+
 ## 法律
 
 ### [知识产权法](https://book.douban.com/subject/35684592/)
@@ -1849,16 +1869,15 @@ FENDI公司以商标侵权和不正当竞争为由，将益朗这两个被告起
 12. [历史演进与当代启示：商标与商誉关系新探——以英美普通法实践为考察中心](https://www.pkulaw.com/qikan/f84c22976f108d4b18dbd393a70c99e7bdfb.html)
 13. [普通法的历史基础](https://book.douban.com/subject/1079422/)
 14. [商标法的历史基础](https://book.douban.com/subject/30326085/)
-15. [嘉源研究 | 十年一剑，切中肯綮 —— 《著作权法》第三次修改亮点与解读](http://www.jiayuan-law.com/cn/news_content.aspx?Lan=CN&MenuID=00000000000000000006&KeyID=00000000000000001946&Type=00000000000000000081)
-16. [现代知识产权法的演进 英国的历程（1760-1911)](https://book.douban.com/subject/10568223/)
-17. [李琛：论我国著作权法修订中“合理使用”的立法技术](http://ielaw.uibe.edu.cn/lfjy/8254.htm) 
-18. [德国知识产权制度是怎样建立和发展的？](https://www.worldip.cn/index.php?m=content&c=index&a=show&catid=54&id=53)
-19. [翻开尘封的历史——《大清著作权律》的那些故事](http://www.chinaipmagazine.com/journal-show.asp?id=835)
-20. [我国古代版权制度的历史演进知产往事](https://www.chinaiprlaw.cn/index.php?id=5745)
-21. [专利制度的历史变迁](https://book.douban.com/subject/35561069/) 
-22. [美国专利制度演进的历史梳理与经验借鉴](http://www.cqvip.com/qk/60136x/201810/676662546.html)
-23. [周璐、罗立国：技术范式视角下的专利制度演进路径分析](http://www.iprixmu.com/page264.html?article_id=1675)
-24. [商业模式专利保护的历史演进与制度思考——以中美比较研究为基础](https://www.hfiplaw.cn/details/19765.html)
-25. [中国专利法演进的动因及其知识供给](https://ibr.suibe.edu.cn/ch/reader/view_abstract.aspx?file_no=20080410&flag=1) 
+15. [现代知识产权法的演进 英国的历程（1760-1911)](https://book.douban.com/subject/10568223/)
+16. [李琛：论我国著作权法修订中“合理使用”的立法技术](http://ielaw.uibe.edu.cn/lfjy/8254.htm) 
+17. [德国知识产权制度是怎样建立和发展的？](https://www.worldip.cn/index.php?m=content&c=index&a=show&catid=54&id=53)
+18. [翻开尘封的历史——《大清著作权律》的那些故事](http://www.chinaipmagazine.com/journal-show.asp?id=835)
+19. [我国古代版权制度的历史演进知产往事](https://www.chinaiprlaw.cn/index.php?id=5745)
+20. [专利制度的历史变迁](https://book.douban.com/subject/35561069/) 
+21. [美国专利制度演进的历史梳理与经验借鉴](http://www.cqvip.com/qk/60136x/201810/676662546.html)
+22. [周璐、罗立国：技术范式视角下的专利制度演进路径分析](http://www.iprixmu.com/page264.html?article_id=1675)
+23. [商业模式专利保护的历史演进与制度思考——以中美比较研究为基础](https://www.hfiplaw.cn/details/19765.html)
+24. [中国专利法演进的动因及其知识供给](https://ibr.suibe.edu.cn/ch/reader/view_abstract.aspx?file_no=20080410&flag=1) 
 
 ![Alt](https://repobeats.axiom.co/api/embed/48145f3a99993e664893ab8abec5e06f14ea7bd7.svg "Repobeats analytics image")
